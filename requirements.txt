@@ -1,0 +1,5 @@
+discord.py==2.3.2
+easy_pil
+python-dotenv==1.0.1
+Pillow
+pytz
